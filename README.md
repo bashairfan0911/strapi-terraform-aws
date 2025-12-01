@@ -273,12 +273,14 @@ terraform apply
 - [Strapi Documentation](https://docs.strapi.io/)
 - [Terraform AWS Provider](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
 - [AWS EC2 Documentation](https://docs.aws.amazon.com/ec2/)
+- https://drive.google.com/drive/folders/1OEk6MNSlDW9zynOCjI4UgEaKdmTCDheB
+  
 
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your-email@example.com
+- GitHub: [@yourusername](https://github.com/bashairfan0911)
+- Email: bashairfan518@example.com
 
 ## 📝 License
 
