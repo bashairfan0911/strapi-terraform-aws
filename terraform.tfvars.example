@@ -1,0 +1,8 @@
+# Copy this file to terraform.tfvars and update with your values
+
+aws_region     = "us-east-2"
+key_name       = "your-aws-key-name"  # SSH key pair name in AWS (without .pem)
+admin_email    = "your-email@example.com"
+admin_password = "YourSecurePassword123!"
+instance_type  = "c7i-flex.large"  # or t3.small for lower cost
+my_ip          = "0.0.0.0/0"  # Change to your IP (x.x.x.x/32) for better security
