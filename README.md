@@ -4,9 +4,8 @@ Automated deployment of Strapi Headless CMS on AWS EC2 using Infrastructure as C
 
 ## 🚀 Live Deployment
 
-- **API Endpoint**: http://3.130.101.183:1337/api
-- **Admin Panel**: http://3.130.101.183:1337/admin
-- **Health Check**: http://3.130.101.183:1337/_health
+- **API Endpoint**: http://18.224.207.47:1337/api
+- **Admin Panel**: http://18.224.207.47:1337/admin
 
 ## 📋 Project Overview
 
